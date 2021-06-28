@@ -1,0 +1,15 @@
+E:\ITI\iti\Ado\Day2\Task\EntityFrameWork_Day1\EntityFrameWork_Day1\bin\Debug\EntityFrameWork_Day1.exe.config
+E:\ITI\iti\Ado\Day2\Task\EntityFrameWork_Day1\EntityFrameWork_Day1\bin\Debug\EntityFrameWork_Day1.exe
+E:\ITI\iti\Ado\Day2\Task\EntityFrameWork_Day1\EntityFrameWork_Day1\bin\Debug\EntityFrameWork_Day1.pdb
+E:\ITI\iti\Ado\Day2\Task\EntityFrameWork_Day1\EntityFrameWork_Day1\bin\Debug\EntityFramework.dll
+E:\ITI\iti\Ado\Day2\Task\EntityFrameWork_Day1\EntityFrameWork_Day1\bin\Debug\EntityFramework.SqlServer.dll
+E:\ITI\iti\Ado\Day2\Task\EntityFrameWork_Day1\EntityFrameWork_Day1\bin\Debug\EntityFramework.xml
+E:\ITI\iti\Ado\Day2\Task\EntityFrameWork_Day1\EntityFrameWork_Day1\bin\Debug\EntityFramework.SqlServer.xml
+E:\ITI\iti\Ado\Day2\Task\EntityFrameWork_Day1\EntityFrameWork_Day1\obj\Debug\EntityFrameWork_Day1.csprojAssemblyReference.cache
+E:\ITI\iti\Ado\Day2\Task\EntityFrameWork_Day1\EntityFrameWork_Day1\obj\Debug\EntityFrameWork_Day1.Form1.resources
+E:\ITI\iti\Ado\Day2\Task\EntityFrameWork_Day1\EntityFrameWork_Day1\obj\Debug\EntityFrameWork_Day1.Properties.Resources.resources
+E:\ITI\iti\Ado\Day2\Task\EntityFrameWork_Day1\EntityFrameWork_Day1\obj\Debug\EntityFrameWork_Day1.csproj.GenerateResource.cache
+E:\ITI\iti\Ado\Day2\Task\EntityFrameWork_Day1\EntityFrameWork_Day1\obj\Debug\EntityFrameWork_Day1.csproj.CoreCompileInputs.cache
+E:\ITI\iti\Ado\Day2\Task\EntityFrameWork_Day1\EntityFrameWork_Day1\obj\Debug\EntityFrameWork_Day1.csproj.CopyComplete
+E:\ITI\iti\Ado\Day2\Task\EntityFrameWork_Day1\EntityFrameWork_Day1\obj\Debug\EntityFrameWork_Day1.exe
+E:\ITI\iti\Ado\Day2\Task\EntityFrameWork_Day1\EntityFrameWork_Day1\obj\Debug\EntityFrameWork_Day1.pdb
