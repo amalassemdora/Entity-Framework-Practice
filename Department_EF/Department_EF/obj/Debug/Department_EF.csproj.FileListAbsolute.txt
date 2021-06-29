@@ -1,0 +1,15 @@
+E:\ITI\iti\Ado\Day2\Task\Department_EF\Department_EF\bin\Debug\Department_EF.exe.config
+E:\ITI\iti\Ado\Day2\Task\Department_EF\Department_EF\bin\Debug\Department_EF.exe
+E:\ITI\iti\Ado\Day2\Task\Department_EF\Department_EF\bin\Debug\Department_EF.pdb
+E:\ITI\iti\Ado\Day2\Task\Department_EF\Department_EF\bin\Debug\EntityFramework.dll
+E:\ITI\iti\Ado\Day2\Task\Department_EF\Department_EF\bin\Debug\EntityFramework.SqlServer.dll
+E:\ITI\iti\Ado\Day2\Task\Department_EF\Department_EF\bin\Debug\EntityFramework.xml
+E:\ITI\iti\Ado\Day2\Task\Department_EF\Department_EF\bin\Debug\EntityFramework.SqlServer.xml
+E:\ITI\iti\Ado\Day2\Task\Department_EF\Department_EF\obj\Debug\Department_EF.csprojAssemblyReference.cache
+E:\ITI\iti\Ado\Day2\Task\Department_EF\Department_EF\obj\Debug\Department_EF.Form1.resources
+E:\ITI\iti\Ado\Day2\Task\Department_EF\Department_EF\obj\Debug\Department_EF.Properties.Resources.resources
+E:\ITI\iti\Ado\Day2\Task\Department_EF\Department_EF\obj\Debug\Department_EF.csproj.GenerateResource.cache
+E:\ITI\iti\Ado\Day2\Task\Department_EF\Department_EF\obj\Debug\Department_EF.csproj.CoreCompileInputs.cache
+E:\ITI\iti\Ado\Day2\Task\Department_EF\Department_EF\obj\Debug\Department_EF.csproj.CopyComplete
+E:\ITI\iti\Ado\Day2\Task\Department_EF\Department_EF\obj\Debug\Department_EF.exe
+E:\ITI\iti\Ado\Day2\Task\Department_EF\Department_EF\obj\Debug\Department_EF.pdb
